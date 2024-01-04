@@ -3,6 +3,7 @@ C-index (CI) is a weighted harmonic average of the C-indices defined for the sub
 
 <center><img src="https://render.githubusercontent.com/render/math?math=\Huge \frac{1}{CI} = \alpha \frac{1}{CI_{ee}} \!%2B (1 - \alpha) \frac{1}{CI_{ec}}" /></center>
 
+$\frac{1}{CI} = \alpha \frac{1}{CI_{ee}} + (1 - \alpha) \frac{1}{CI_{ec}}$
 
 To use the C-index decompostion, download the file Utils/metrics.py and use the function c_index_decomposition. The function will return the following terms:
  * <b>Cee</b>: The C-index of the ee pairs.
