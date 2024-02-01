@@ -11,7 +11,23 @@ To use the C-index decompostion, download the file Utils/metrics.py and use the 
  * <b>alpha_deviation</b>: The deviation from the optimal alpha.
  * <b>C</b>: The total C-index.
 
-For more details, see full paper [The Concordance Index decomposition: a measure for a deeper understanding of survival prediction models](https://arxiv.org/abs/2203.00144)
+For more details, see the full paper [The Concordance Index decomposition: A measure for a deeper understanding of survival prediction models](https://doi.org/10.1016/j.artmed.2024.102781)
+
+## BibTeX Citation
+```
+@article{ALABDALLAH2024102781,
+   title = {The Concordance Index decomposition: A measure for a deeper understanding of survival prediction models},
+   journal = {Artificial Intelligence in Medicine},
+   volume = {148},
+   pages = {102781},
+   year = {2024},
+   issn = {0933-3657},
+   doi = {https://doi.org/10.1016/j.artmed.2024.102781},
+   url = {https://www.sciencedirect.com/science/article/pii/S093336572400023X},
+   author = {Abdallah Alabdallah and Mattias Ohlsson and Sepideh Pashami and Thorsteinn Rögnvaldsson},
+   keywords = {Survival analysis, Evaluation metric, Concordance Index, Variational encoder–decoder}
+}
+```
 
 ## SurVED
 Survival Analysis with Variational Encoder Decoder.
