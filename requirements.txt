@@ -1,7 +1,7 @@
 pandas~=0.25.1
 numpy~=1.18.1
 sklearn~=0.0
-scikit-learn~=0.24.2
+scikit-learn>=1.0.1
 tensorflow~=2.1.0
 matplotlib~=3.3.4
 lifelines~=0.25.4
